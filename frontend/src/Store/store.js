@@ -3,7 +3,7 @@ import axios from 'axios'
 import router from '@/router'
 
 
-const url = 'https://book-management-api-ero5.onrender.com';
+const url = 'https://book-managementapi.onrender.com'
 
 const store = createStore({
   state() {
