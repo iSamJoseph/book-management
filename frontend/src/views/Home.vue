@@ -34,7 +34,7 @@
 .maindiv{
     display: flex;
     justify-content: space-between;
-    font-weight: 500;  
+    font-weight: 200;  
 }
 .leftdiv{
    
