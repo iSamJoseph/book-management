@@ -39,7 +39,7 @@
 .leftdiv{
    
     width: 50%;
-    height: 100vh;
+    height: 150vh;
    
 }
 
@@ -49,6 +49,6 @@
 }
 .rightdiv{
     width: 50%;
-    height: 100vh;
+    height: 150vh;
 }
 </style>
