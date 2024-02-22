@@ -34,15 +34,12 @@
 .maindiv{
     display: flex;
     justify-content: space-between;
-    font-weight: 500;
-    width: 100%;
-    height: 100vh;
-    
+    font-weight: 500;  
 }
 .leftdiv{
    
     width: 50%;
-    height: 70vh;
+    height: 100vh;
    
 }
 
@@ -52,6 +49,6 @@
 }
 .rightdiv{
     width: 50%;
-    height: 70vh;
+    height: 100vh;
 }
 </style>
